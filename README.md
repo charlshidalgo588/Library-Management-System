@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3b6a97ec-2e9a-4c65-9f77-834c9f2acc54" />
+<img width="1595" height="767" alt="image" src="https://github.com/user-attachments/assets/49324a31-ea3f-454c-88ac-5bfbdbb86106" />
 
 # Library Management System (Vue.js Frontend)
 
