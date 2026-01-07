@@ -1,48 +1,71 @@
-# my-app
+# Library Management System (Vue.js Frontend)
 
-This template should help get you started developing with Vue 3 in Vite.
+📚 **Library Management System – Frontend Prototype**
 
-## Recommended IDE Setup
+This repository contains a **frontend-only Library Management System prototype** built using **Vue.js**.  
+The project uses **Caraga State University** as an example institution for demonstration purposes.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+> ⚠️ **Important:**  
+> This project is **unfinished** and **does not include a backend**.  
+> All data shown in the application is static or mock data.
 
-## Recommended Browser Setup
+---
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## 🧠 About the Project
 
-## Type Support for `.vue` Imports in TS
+This project was developed as part of an academic exercise to demonstrate how a **Library Management System user interface** can be designed using Vue.js.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+The focus of this project is on:
+- frontend structure
+- UI layout and navigation
+- component-based development using Vue.js
+- basic user interaction flow
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🎯 Project Purpose
 
-## Project Setup
+- Practice Vue.js fundamentals
+- Design a realistic library system interface
+- Serve as a frontend prototype for a full system
+- Provide a foundation for future backend integration
+
+---
+
+## ✨ Features (UI Only)
+
+- 📖 Book listing interface
+- 🔍 Search and filter UI (visual only)
+- 🧾 Book information display
+- 📊 Dashboard layout
+- 🧑‍🎓 Sample library user views
+- 📱 Responsive design
+
+> ⚠️ No real data persistence or authentication is implemented.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Vue.js**
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 🚀 Getting Started
+
+### 📋 Prerequisites
+
+- Node.js
+- npm or yarn
+
+---
+
+### 📂 Installation
 
 ```sh
+git clone https://github.com/charlshidalgo588/my-app.git
+cd my-app
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
