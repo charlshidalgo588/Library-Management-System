@@ -1,3 +1,5 @@
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3b6a97ec-2e9a-4c65-9f77-834c9f2acc54" />
+
 # Library Management System (Vue.js Frontend)
 
 📚 **Library Management System – Frontend Prototype**
@@ -6,6 +8,7 @@ This repository contains a **frontend-only Library Management System prototype**
 The project uses **Caraga State University** as an example institution for demonstration purposes.
 
 > ⚠️ **Important:**  
+
 > This project is **unfinished** and **does not include a backend**.  
 > All data shown in the application is static or mock data.
 
